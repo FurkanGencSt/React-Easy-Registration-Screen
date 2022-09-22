@@ -1,3 +1,5 @@
+This project is not owned by me and is not original. It was something I did in terms of learning. I made this project based on the https://play.google.com/store/books/details/U%C4%9Fur_Geli%C5%9Fken_React_Tamamen_Uygulamal%C4%B1_ve_G%C3%BCncel?id=TnMnEAAAQBAJ/ book in the React learning phase. Therefore, it is not owned by me and is not original. It was something I did in terms of learning.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
